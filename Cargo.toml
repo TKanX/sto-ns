@@ -13,7 +13,11 @@ keywords = [
     "ab-initio",
     "no-std",
 ]
-categories = ["science", "simulation", "mathematics"]
+categories = [
+    "mathematics",
+    "science::computational-chemistry::electronic-structure",
+    "no-std",
+]
 readme = "README.md"
 
 [dependencies]
